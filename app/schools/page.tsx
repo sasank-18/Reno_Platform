@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default async function ShowSchoolsPage() {
   // call API route instead of prisma
-  const res = await fetch(`http://localhost:3000/api/schools`, {
+  const res = await fetch(`${process.env.DOMAIN}/api/schools`, {
     cache: "no-store", // ensures fresh data
   });
 

@@ -1,6 +1,4 @@
-# 🌐 Proxy Switcher Chrome Extension  
-
-A Chrome Extension that fetches free proxies from an API, shows their IPs with location, and allows users to connect to them.  
+# 🌐 Reno Plaform Assignment
 
 ---
 
